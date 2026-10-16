@@ -1,0 +1,178 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - heading "📝 메모 앱" [level=1] [ref=e8]
+        - button "새 메모" [ref=e10]
+    - main [ref=e13]:
+      - generic [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e16]:
+            - textbox "메모 검색..." [ref=e19]
+            - combobox [ref=e21]:
+              - option "전체 카테고리" [selected]
+              - option "개인 (2)"
+              - option "업무 (1)"
+              - option "학습 (1)"
+              - option "아이디어 (2)"
+              - option "기타 (0)"
+          - generic [ref=e22]: 총 6개의 메모
+        - generic [ref=e25]:
+          - generic [ref=e26] [cursor=pointer]:
+            - generic [ref=e27]:
+              - generic [ref=e28]:
+                - heading "프로젝트 회의 준비" [level=3] [ref=e29]
+                - generic [ref=e30]:
+                  - generic [ref=e31]: 업무
+                  - generic [ref=e32]: 2026년 10월 14일 오후 02:17
+              - generic [ref=e33]:
+                - button "편집" [ref=e34]
+                - button "삭제" [ref=e37]
+            - generic [ref=e137]:
+              - paragraph [ref=e138]: "다음 주 월요일 오전 10시 프로젝트 킥오프 미팅을 위한 준비사항:"
+              - list [ref=e139]:
+                - listitem [ref=e140]: 프로젝트 범위 정의서 작성
+                - listitem [ref=e141]: 팀원별 역할 분담
+                - listitem [ref=e142]: 일정 계획 수립
+                - listitem [ref=e143]: 필요한 리소스 정리
+            - generic [ref=e40]:
+              - generic [ref=e41]: "#회의"
+              - generic [ref=e42]: "#프로젝트"
+              - generic [ref=e43]: "#준비"
+          - generic [ref=e44] [cursor=pointer]:
+            - generic [ref=e45]:
+              - generic [ref=e46]:
+                - heading "React 18 새로운 기능 학습" [level=3] [ref=e47]
+                - generic [ref=e48]:
+                  - generic [ref=e49]: 학습
+                  - generic [ref=e50]: 2026년 10월 15일 오후 02:17
+              - generic [ref=e51]:
+                - button "편집" [ref=e52]
+                - button "삭제" [ref=e55]
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: "React 18에서 새로 추가된 기능들을 학습해야 함:"
+              - list [ref=e148]:
+                - listitem [ref=e149]: Concurrent Features
+                - listitem [ref=e150]: Automatic Batching
+                - listitem [ref=e151]: Suspense 개선사항
+                - listitem [ref=e152]: useId Hook
+                - listitem [ref=e153]: useDeferredValue Hook
+              - paragraph [ref=e154]: 이번 주말에 공식 문서를 읽고 간단한 예제를 만들어보자.
+            - generic [ref=e58]:
+              - generic [ref=e59]: "#React"
+              - generic [ref=e60]: "#학습"
+              - generic [ref=e61]: "#개발"
+          - generic [ref=e62] [cursor=pointer]:
+            - generic [ref=e63]:
+              - generic [ref=e64]:
+                - 'heading "새로운 앱 아이디어: 습관 트래커" [level=3] [ref=e65]'
+                - generic [ref=e66]:
+                  - generic [ref=e67]: 아이디어
+                  - generic [ref=e68]: 2026년 10월 13일 오후 02:17
+              - generic [ref=e69]:
+                - button "편집" [ref=e70]
+                - button "삭제" [ref=e73]
+            - generic [ref=e157]:
+              - paragraph [ref=e158]: "매일 실천하고 싶은 습관들을 관리할 수 있는 앱:"
+              - paragraph [ref=e159]: "핵심 기능:"
+              - list [ref=e160]:
+                - listitem [ref=e161]: 습관 등록 및 관리
+                - listitem [ref=e162]: 일일 체크인
+                - listitem [ref=e163]: 진행 상황 시각화
+                - listitem [ref=e164]: 목표 달성 알림
+                - listitem [ref=e165]: 통계 분석
+              - paragraph [ref=e166]: "기술 스택: React Native + Supabase 출시 목표: 3개월 후"
+            - generic [ref=e76]:
+              - generic [ref=e77]: "#앱개발"
+              - generic [ref=e78]: "#습관"
+              - generic [ref=e79]: "#React Native"
+          - generic [ref=e80] [cursor=pointer]:
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - heading "주말 여행 계획" [level=3] [ref=e83]
+                - generic [ref=e84]:
+                  - generic [ref=e85]: 개인
+                  - generic [ref=e86]: 2026년 10월 8일 오후 02:17
+              - generic [ref=e87]:
+                - button "편집" [ref=e88]
+                - button "삭제" [ref=e91]
+            - generic [ref=e169]:
+              - paragraph [ref=e170]: "이번 주말 제주도 여행 계획:"
+              - paragraph [ref=e171]: "토요일:"
+              - list [ref=e172]:
+                - listitem [ref=e173]: "오전: 한라산 등반"
+                - listitem [ref=e174]: "오후: 성산일출봉 관광"
+                - listitem [ref=e175]: "저녁: 흑돼지 맛집 방문"
+              - paragraph [ref=e176]: "일요일:"
+              - list [ref=e177]:
+                - listitem [ref=e178]: "오전: 우도 관광"
+                - listitem [ref=e179]: "오후: 쇼핑 및 기념품 구매"
+                - listitem [ref=e180]: "저녁: 공항 이동"
+              - paragraph [ref=e181]: "준비물: 등산화, 카메라, 선크림"
+            - generic [ref=e94]:
+              - generic [ref=e95]: "#여행"
+              - generic [ref=e96]: "#제주도"
+              - generic [ref=e97]: "#주말"
+          - generic [ref=e98] [cursor=pointer]:
+            - generic [ref=e99]:
+              - generic [ref=e100]:
+                - heading "독서 목록" [level=3] [ref=e101]
+                - generic [ref=e102]:
+                  - generic [ref=e103]: 개인
+                  - generic [ref=e104]: 2026년 10월 1일 오후 02:17
+              - generic [ref=e105]:
+                - button "편집" [ref=e106]
+                - button "삭제" [ref=e109]
+            - generic [ref=e184]:
+              - paragraph [ref=e185]: "올해 읽고 싶은 책들:"
+              - paragraph [ref=e186]: "개발 관련:"
+              - list [ref=e187]:
+                - listitem [ref=e188]: 클린 코드 (로버트 C. 마틴)
+                - listitem [ref=e189]: 리팩토링 2판 (마틴 파울러)
+                - listitem [ref=e190]: 시스템 디자인 인터뷰 (알렉스 쉬)
+              - paragraph [ref=e191]: "자기계발:"
+              - list [ref=e192]:
+                - listitem [ref=e193]: 아토믹 해빗 (제임스 클리어)
+                - listitem [ref=e194]: 데일 카네기 인간관계론
+              - paragraph [ref=e195]: "소설:"
+              - list [ref=e196]:
+                - listitem [ref=e197]: 82년생 김지영 (조남주)
+                - listitem [ref=e198]: 미드나잇 라이브러리 (매트 헤이그)
+            - generic [ref=e112]:
+              - generic [ref=e113]: "#독서"
+              - generic [ref=e114]: "#책"
+              - generic [ref=e115]: "#자기계발"
+          - generic [ref=e116] [cursor=pointer]:
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - heading "성능 최적화 아이디어" [level=3] [ref=e119]
+                - generic [ref=e120]:
+                  - generic [ref=e121]: 아이디어
+                  - generic [ref=e122]: 2026년 10월 4일 오후 02:17
+              - generic [ref=e123]:
+                - button "편집" [ref=e124]
+                - button "삭제" [ref=e127]
+            - generic [ref=e201]:
+              - paragraph [ref=e202]: "웹 애플리케이션 성능 최적화 방법들:"
+              - paragraph [ref=e203]: "프론트엔드:"
+              - list [ref=e204]:
+                - listitem [ref=e205]: 이미지 최적화 (WebP, lazy loading)
+                - listitem [ref=e206]: 코드 스플리팅
+                - listitem [ref=e207]: 번들 크기 최적화
+                - listitem [ref=e208]: 캐싱 전략
+              - paragraph [ref=e209]: "백엔드:"
+              - list [ref=e210]:
+                - listitem [ref=e211]: 데이터베이스 쿼리 최적화
+                - listitem [ref=e212]: CDN 활용
+                - listitem [ref=e213]: 서버 사이드 렌더링
+                - listitem [ref=e214]: API 응답 캐싱
+              - paragraph [ref=e215]: "모니터링:"
+              - list [ref=e216]:
+                - listitem [ref=e217]: Core Web Vitals 측정
+                - listitem [ref=e218]: 성능 예산 설정
+            - generic [ref=e130]:
+              - generic [ref=e131]: "#성능"
+              - generic [ref=e132]: "#최적화"
+              - generic [ref=e133]: "#웹개발"
+  - button "Open Next.js Dev Tools" [ref=e224] [cursor=pointer]
+  - alert [ref=e134]
